@@ -1,4 +1,4 @@
-Will the Customer Accept the Coupon
+<b>Will the Customer Accept the Coupon</b>
 
 
 This is a brief report for assignment 5.1. The dataset used is the coupons.csv data that was provided with the assignment. Following were the observations and findings from the dataset using pandas and seaborn
@@ -30,6 +30,7 @@ Following visualization techniques were used to analyze the data
     -	Seaborn barplot
 
 <b>Overall Conclusion</b>
+
 The various metrics and charts show that there are various factors that impact the coupon acceptance rate. Frequency of visit to a particular type of place has greater impact on the coupon acceptance rate for that place. The only exception to this was carryout places where folks who never visited were equally likely to accept the coupon as the folks who visited often.
 Other factors like gender, marital status and age had an impact to the acceptance rate. Males were more likely to accept the coupons but females with partners had a higher acceptance rate in some cases.  Lower age group accepted coupons more than higher age group. Carry out coupons’ acceptance was not impacted by age.
 
