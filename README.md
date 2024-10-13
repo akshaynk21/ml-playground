@@ -1,7 +1,7 @@
 <b>Will the Customer Accept the Coupon</b>
 
 
-This is a brief report for assignment 5.1. The dataset used is the coupons.csv data that was provided with the assignment. Following were the observations and findings from the dataset using pandas and seaborn
+This is a brief report for the coupons dataset. The source is the coupons.csv data that is included in coupon_application1. The analysis is captured in the jupyter notebook coupons.ipnyb inside the coupon_application1 folder. Following were the observations and findings from the dataset using pandas and seaborn
 
 1.	Overall acceptance rate of all coupons was 56.84%
 
